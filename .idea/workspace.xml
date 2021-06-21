@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ce81f4b-106e-4dff-a864-2b72bb85a4d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +15,15 @@
     <SUITE FILE_PATH="coverage/Cloud$Testgit.coverage" NAME="Testgit Coverage Results" MODIFIED="1603120611418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$Heapsort.coverage" NAME="Heapsort Coverage Results" MODIFIED="1623168621789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wkldemo$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1603811769747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cloud$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1624281407128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1624284882089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QuickSort.py">
+        <entry file="file://$PROJECT_DIR$/MergeSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="333">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -56,6 +56,7 @@
         <option value="$PROJECT_DIR$/Demo.py" />
         <option value="$PROJECT_DIR$/Heapsort.py" />
         <option value="$PROJECT_DIR$/QuickSort.py" />
+        <option value="$PROJECT_DIR$/MergeSort.py" />
       </list>
     </option>
   </component>
@@ -217,7 +218,7 @@
       <workItem from="1603811477612" duration="349000" />
       <workItem from="1623161509534" duration="5595000" />
       <workItem from="1623763473546" duration="54000" />
-      <workItem from="1624279527547" duration="2499000" />
+      <workItem from="1624279527547" duration="5638000" />
     </task>
     <task id="LOCAL-00001" summary="测试git关联pycharm">
       <created>1603120663625</created>
@@ -247,11 +248,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603811168550</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="快速排序">
+      <created>1624282097972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624282097972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11238000" />
+    <option name="totallyTimeSpent" value="14377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="27" width="1848" height="1053" extended-state="6" />
@@ -297,7 +305,8 @@
     <MESSAGE value="测试git关联pycharm" />
     <MESSAGE value="例子" />
     <MESSAGE value="堆排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="堆排序" />
+    <MESSAGE value="快速排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="快速排序" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Testgit.py" />
@@ -332,8 +341,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/QuickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
