@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ce81f4b-106e-4dff-a864-2b72bb85a4d1" name="Default Changelist" comment="lee最长回文子串">
-      <change afterPath="$PROJECT_DIR$/leetccode_Longeststr.py" afterDir="false" />
+    <list default="true" id="4ce81f4b-106e-4dff-a864-2b72bb85a4d1" name="Default Changelist" comment="leetcode">
+      <change afterPath="$PROJECT_DIR$/leetcode_jumpgingames.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode_twoSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,12 +15,13 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Cloud$Testgit.coverage" NAME="Testgit Coverage Results" MODIFIED="1603120611418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$InsertSort.coverage" NAME="InsertSort Coverage Results" MODIFIED="1624371692747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$leetcode_jumpgingames.coverage" NAME="leetcode_jumpgingames Coverage Results" MODIFIED="1627315617224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$babbab.coverage" NAME="babbab Coverage Results" MODIFIED="1626876395154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1624459162917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$leetccode_lesterstr.coverage" NAME="leetccode_lesterstr Coverage Results" MODIFIED="1627057406692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$Heapsort.coverage" NAME="Heapsort Coverage Results" MODIFIED="1623168621789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wkldemo$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1603811769747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cloud$babbab.coverage" NAME="babbab Coverage Results" MODIFIED="1626876395154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cloud$leetcode_twoSum.coverage" NAME="leetcode_twoSum Coverage Results" MODIFIED="1627053698981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$leetcode_twoSum.coverage" NAME="leetcode_twoSum Coverage Results" MODIFIED="1627311345933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1624287623328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$SelectSordFindSmallest.coverage" NAME="SelectSordFindSmallest Coverage Results" MODIFIED="1624372768483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1624286951762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -31,17 +32,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode_twoSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="419">
+              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetccode_Longeststr.py">
+        <entry file="file://$PROJECT_DIR$/leetcode_jumpgingames.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-361">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="171">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -82,9 +83,10 @@
         <option value="$PROJECT_DIR$/BinarySearch.py" />
         <option value="$PROJECT_DIR$/BFS.py" />
         <option value="$PROJECT_DIR$/babbab.py" />
-        <option value="$PROJECT_DIR$/leetcode_twoSum.py" />
         <option value="$PROJECT_DIR$/leetccode_lesterstr.py" />
         <option value="$PROJECT_DIR$/leetccode_Longeststr.py" />
+        <option value="$PROJECT_DIR$/leetcode_twoSum.py" />
+        <option value="$PROJECT_DIR$/leetcode_jumpgingames.py" />
       </list>
     </option>
   </component>
@@ -99,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,6 +112,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetccode_lesterstr">
+  <component name="RunManager" selected="Python.leetcode_jumpgingames">
     <configuration name="BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cloud" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,28 +149,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Cloud" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,6 +201,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="leetcode_jumpgingames" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cloud" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_jumpgingames.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="leetcode_twoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cloud" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetccode_lesterstr" />
+        <item itemvalue="Python.leetcode_jumpgingames" />
         <item itemvalue="Python.leetcode_twoSum" />
+        <item itemvalue="Python.leetccode_lesterstr" />
         <item itemvalue="Python.babbab" />
         <item itemvalue="Python.BFS" />
-        <item itemvalue="Python.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +277,8 @@
       <workItem from="1624981216118" duration="254000" />
       <workItem from="1625578636386" duration="183000" />
       <workItem from="1626872359954" duration="4718000" />
-      <workItem from="1627046016778" duration="11643000" />
+      <workItem from="1627046016778" duration="11693000" />
+      <workItem from="1627307732631" duration="6073000" />
     </task>
     <task id="LOCAL-00001" summary="测试git关联pycharm">
       <created>1603120663625</created>
@@ -354,22 +357,29 @@
       <option name="project" value="LOCAL" />
       <updated>1626875240279</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="leetcode无重复字符的最长子串">
+      <created>1627057708902</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627057708902</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44225000" />
+    <option name="totallyTimeSpent" value="50348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="27" width="1846" height="899" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.18470982" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.18694197" />
       <window_info id="Structure" order="1" sideWeight="0.5013624" side_tool="true" weight="0.17558528" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20348059" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20348059" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -411,7 +421,8 @@
     <MESSAGE value="广度优先算法" />
     <MESSAGE value="leetcode两数之和" />
     <MESSAGE value="leetcode题目最长回文子串" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode题目最长回文子串" />
+    <MESSAGE value="leetcode无重复字符的最长子串" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode无重复字符的最长子串" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Testgit.py" />
@@ -435,17 +446,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_twoSum.py">
+    <entry file="file://$PROJECT_DIR$/leetcode_Longeststr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="19">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetccode_Longeststr.py">
+    <entry file="file://$PROJECT_DIR$/leetcode_twoSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-361">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="419">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_jumpgingames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
