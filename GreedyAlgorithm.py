@@ -33,7 +33,7 @@ while states_needed:
         # 该电台覆盖的州和需要覆盖的州取交集
         covered = states & states_needed
         if len(covered) > len(states_covered):
-            # 如果
+            # 通过长度判断覆盖最多的州
             best_station = station
             states_covered = covered
     final_stations.add(best_station)
