@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ce81f4b-106e-4dff-a864-2b72bb85a4d1" name="Default Changelist" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/Dijkstra_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GreedyAlgorithm.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode_twoSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -17,12 +17,13 @@
     <SUITE FILE_PATH="coverage/Cloud$InsertSort.coverage" NAME="InsertSort Coverage Results" MODIFIED="1624371692747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$leetcode_jumpgingames.coverage" NAME="leetcode_jumpgingames Coverage Results" MODIFIED="1627315617224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$babbab.coverage" NAME="babbab Coverage Results" MODIFIED="1626876395154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cloud$Dijkstra_algorithm.coverage" NAME="Dijkstra_algorithm Coverage Results" MODIFIED="1627484388972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$GreedyAlgorithm.coverage" NAME="GreedyAlgorithm Coverage Results" MODIFIED="1627570674328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$Dijkstra_algorithm.coverage" NAME="Dijkstra_algorithm Coverage Results" MODIFIED="1627484909259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1624459162917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$leetccode_lesterstr.coverage" NAME="leetccode_lesterstr Coverage Results" MODIFIED="1627057406692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$Heapsort.coverage" NAME="Heapsort Coverage Results" MODIFIED="1623168621789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wkldemo$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1603811769747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cloud$leetcode_twoSum.coverage" NAME="leetcode_twoSum Coverage Results" MODIFIED="1627311345933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$leetcode_twoSum.coverage" NAME="leetcode_twoSum Coverage Results" MODIFIED="1627568610674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1624287623328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$SelectSordFindSmallest.coverage" NAME="SelectSordFindSmallest Coverage Results" MODIFIED="1624372768483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1624286951762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -31,10 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dijkstra_algorithm.py">
+        <entry file="file://$PROJECT_DIR$/GreedyAlgorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+            <state relative-caret-position="196">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -77,9 +78,10 @@
         <option value="$PROJECT_DIR$/babbab.py" />
         <option value="$PROJECT_DIR$/leetccode_lesterstr.py" />
         <option value="$PROJECT_DIR$/leetccode_Longeststr.py" />
-        <option value="$PROJECT_DIR$/leetcode_twoSum.py" />
         <option value="$PROJECT_DIR$/leetcode_jumpgingames.py" />
         <option value="$PROJECT_DIR$/Dijkstra_algorithm.py" />
+        <option value="$PROJECT_DIR$/leetcode_twoSum.py" />
+        <option value="$PROJECT_DIR$/GreedyAlgorithm.py" />
       </list>
     </option>
   </component>
@@ -127,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dijkstra_algorithm">
+  <component name="RunManager" selected="Python.GreedyAlgorithm">
     <configuration name="Dijkstra_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cloud" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="babbab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GreedyAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cloud" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +165,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_babbab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GreedyAlgorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GreedyAlgorithm" />
+        <item itemvalue="Python.leetcode_twoSum" />
         <item itemvalue="Python.Dijkstra_algorithm" />
         <item itemvalue="Python.leetcode_jumpgingames" />
-        <item itemvalue="Python.leetcode_twoSum" />
         <item itemvalue="Python.leetccode_lesterstr" />
-        <item itemvalue="Python.babbab" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +274,8 @@
       <workItem from="1626872359954" duration="4718000" />
       <workItem from="1627046016778" duration="11693000" />
       <workItem from="1627307732631" duration="6130000" />
-      <workItem from="1627480401651" duration="3962000" />
+      <workItem from="1627480401651" duration="4582000" />
+      <workItem from="1627565365009" duration="5157000" />
     </task>
     <task id="LOCAL-00001" summary="测试git关联pycharm">
       <created>1603120663625</created>
@@ -365,22 +368,29 @@
       <option name="project" value="LOCAL" />
       <updated>1627315928331</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="狄克斯特拉算法">
+      <created>1627484468599</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627484468599</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54367000" />
+    <option name="totallyTimeSpent" value="60144000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="27" width="1842" height="895" extended-state="6" />
+    <frame x="72" y="27" width="1848" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.1901566" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49863762" visible="true" weight="0.1928651" />
       <window_info id="Structure" order="1" sideWeight="0.5013624" side_tool="true" weight="0.17558528" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24629879" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20754717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +434,8 @@
     <MESSAGE value="leetcode题目最长回文子串" />
     <MESSAGE value="leetcode无重复字符的最长子串" />
     <MESSAGE value="leetcode贪婪算法跳跃游戏二" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode贪婪算法跳跃游戏二" />
+    <MESSAGE value="狄克斯特拉算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="狄克斯特拉算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Testgit.py" />
@@ -455,13 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_twoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_jumpgingames.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -471,8 +475,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dijkstra_algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        <state relative-caret-position="285">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_twoSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreedyAlgorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
         </state>
       </provider>
     </entry>
