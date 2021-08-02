@@ -18,11 +18,13 @@
 
 class Solution:
     def jump(self, nums):
+        # 数组的长度下标
         List_Index_Max = len(nums) - 1
         # 跳跃次数
         JumpSteps = 0
         # 当前最远可以跳跃到的下标位置
         criticalValue_index = 0
+        # 遍历到了最远距离后步数+1
         middle_index = 0
         for i in range(List_Index_Max):
             # 当前列表对应下标的值可以跳跃到的位置
