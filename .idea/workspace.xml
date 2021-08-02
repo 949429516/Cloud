@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ce81f4b-106e-4dff-a864-2b72bb85a4d1" name="Default Changelist" comment="leetcode">
-      <change afterPath="$PROJECT_DIR$/leetcode_jumpgingames1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode_twoSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode_jumpgingames.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_jumpgingames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_jumpgingames1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_jumpgingames1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     <SUITE FILE_PATH="coverage/wkldemo$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1603811769747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$leetcode_twoSum.coverage" NAME="leetcode_twoSum Coverage Results" MODIFIED="1627914887633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1624287623328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cloud$leetcode_jumpgingames1.coverage" NAME="leetcode_jumpgingames1 Coverage Results" MODIFIED="1627917297403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cloud$leetcode_jumpgingames1.coverage" NAME="leetcode_jumpgingames1 Coverage Results" MODIFIED="1627917833311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$SelectSordFindSmallest.coverage" NAME="SelectSordFindSmallest Coverage Results" MODIFIED="1624372768483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1624286951762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cloud$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1624981301714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode_jumpgingames1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="258">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -302,7 +301,7 @@
       <workItem from="1627307732631" duration="6130000" />
       <workItem from="1627480401651" duration="4582000" />
       <workItem from="1627565365009" duration="5860000" />
-      <workItem from="1627911092881" duration="5861000" />
+      <workItem from="1627911092881" duration="6472000" />
     </task>
     <task id="LOCAL-00001" summary="测试git关联pycharm">
       <created>1603120663625</created>
@@ -423,11 +422,18 @@
       <option name="project" value="LOCAL" />
       <updated>1627571948806</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="leetcode跳跃游戏">
+      <created>1627917418127</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627917418127</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66708000" />
+    <option name="totallyTimeSpent" value="67319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="27" width="1848" height="1053" extended-state="6" />
@@ -486,7 +492,8 @@
     <MESSAGE value="贪婪算法寻找电台覆盖" />
     <MESSAGE value="leetcode" />
     <MESSAGE value="贪婪算法，电台覆盖最多州的问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="贪婪算法，电台覆盖最多州的问题" />
+    <MESSAGE value="leetcode跳跃游戏" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode跳跃游戏" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Testgit.py" />
@@ -554,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_jumpgingames1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="258">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
